@@ -8,6 +8,7 @@ The eJPT is hands-on, so you learn it by doing — legally, in an environment yo
 
 - [Home lab setup](home-lab-setup.md) — a self-contained lab on your own machine
 - [Practice targets](practice-targets.md) — where to get authorised, legal targets
+- [Critical TryHackMe rooms](tryhackme-rooms.md) — an essential, ordered set of rooms to complete
 
 ## Why a lab matters
 

@@ -28,7 +28,7 @@ These platforms provide targets you are **explicitly permitted** to attack as pa
 
 ## A sensible progression for eJPT prep
 
-1. **TryHackMe** beginner paths — learn the workflow with guidance
+1. **TryHackMe** beginner paths — learn the workflow with guidance. See the [critical TryHackMe rooms](tryhackme-rooms.md) list for a specific, ordered set worth completing
 2. **PortSwigger Academy** — build real web testing skill for free
 3. **Hack The Box** easy machines — practise the full methodology unguided
 4. **Local multi-host lab** — practise pivoting
